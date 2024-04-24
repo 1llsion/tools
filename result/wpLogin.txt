@@ -1,0 +1,3 @@
+http://localhost/lab super_admin => admin123
+http://localhost/lab super_admin => admin123
+http://localhost/lab super_admin => admin123

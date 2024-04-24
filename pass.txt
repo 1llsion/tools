@@ -1,0 +1,10 @@
+admin
+password
+admin123
+admin_123
+admin123@
+admin321@
+admin321#@!
+admin123456789
+admin#@!$
+adminPasss

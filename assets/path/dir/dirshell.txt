@@ -1,0 +1,10 @@
+doc_upload/
+doc_upload/pmb/
+medical/
+medical/web/
+medical/web/photos/
+web/
+assets/
+assets/css/
+assets/images/
+assets/uploads/
